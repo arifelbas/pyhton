@@ -1,0 +1,2 @@
+# pyhton
+patika ödev
